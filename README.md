@@ -6,5 +6,11 @@ My lovely wife Lauren makes this example look perfect. Here is the completed com
 
 <img src="https://i.imgur.com/QJMZqcJ.png">
 
+
+
+
+
+
 twitter: @robo_turner
+
 email: roboturnerdev@gmail.com
